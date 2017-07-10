@@ -1,7 +1,7 @@
-#  `express-graphql-seed` — A starter kit for REST api and queries with GraphQL
+#  `express-graphql-seed` — the seed for REST api and GraphQL
 
 ## Getting started
-####clone `express-graphql-seed` repository using git.
+#### clone `express-graphql-seed` repository using git.
 ```
 git clone https://github.com/mh-rafi/express-graphql-seed.git
 cd express-graphql-seed
